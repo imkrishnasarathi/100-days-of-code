@@ -14,6 +14,4 @@
 
 **Thoughts:** I was not at home, so I had to code these in my tablet and test in my phone. I will fix any designing bugs tomorrow after I return home. Since I already learnt beginner and intermediate CSS, I planned to brush up my concepts here. Will code the JavaScript tomorrow.  
 
-
-
 **Link to work:** [Page for the game](https://krishnasarathiguirps.netlify.app)
