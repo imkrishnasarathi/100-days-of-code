@@ -15,3 +15,12 @@
 **Thoughts:** I was not at home, so I had to code these in my tablet and test in my phone. I will fix any designing bugs tomorrow after I return home. Since I already learnt beginner and intermediate CSS, I planned to brush up my concepts here. Will code the JavaScript tomorrow.  
 
 **Link to work:** [Page for the game](https://krishnasarathiguirps.netlify.app)
+
+### Day 3: May 26, 2023
+
+**Today's Progress**: Worked with the Rock Paper Scissors GUI. Fixed designing bugs and edited the design, added some elements.
+
+**Thoughts:** The elements were pretty small so I fixed them and also center aligned them. Made the page more responsive. Added a button that looks like the MacOS buttons, also created the variables in JS storing the elements required using selectors. Uncommented and deleted some JS code. Won't start the freeCodeCamp course again until I complete this!
+
+**Link to work:** [Same as yesterday](https://krishnasarathiguirps.netlify.app)
+
