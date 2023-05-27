@@ -24,3 +24,12 @@
 
 **Link to work:** [Same as yesterday](https://krishnasarathiguirps.netlify.app)
 
+### Day 4: May 27, 2023
+
+**Today's Progress**: Coded and Completed the Rock Paper Scissors GUI Game. 
+
+**Thoughts:** I completed coding the game and will start with freeCodeCamp JS algorith course tomorrow. The game was fun and easy to code. 
+
+**Link to work:** [Same as yesterday](https://krishnasarathiguirps.netlify.app)
+
+
