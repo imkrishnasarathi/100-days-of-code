@@ -28,8 +28,16 @@
 
 **Today's Progress**: Coded and Completed the Rock Paper Scissors GUI Game. 
 
-**Thoughts:** I completed coding the game and will start with freeCodeCamp JS algorith course tomorrow. The game was fun and easy to code. 
+**Thoughts:** I completed coding the game and will start with freeCodeCamp JS algorithm course tomorrow. The game was fun and easy to code. 
 
 **Link to work:** [Same as yesterday](https://krishnasarathiguirps.netlify.app)
+
+### Day 5: May 28, 2023
+
+**Today's Progress**: Continued with the fCC JS algorithms and Data Structures course. Solved some problems on CodeWars.
+
+**Thoughts:** Since I was left behind this course a lot, I decided to continue it today and solved problems along with it (as you know their courses are hands on courses). Also, I solved some problems on CodeWars! 
+
+**Link to work:** **No link since no specific project done**
 
 
