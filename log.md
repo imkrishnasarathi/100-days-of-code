@@ -40,4 +40,11 @@
 
 **Link to work:** **No link since no specific project done**
 
+### Day 6: May 29, 2023
+
+**Today's Progress**: Went on with the freeCodeCamp JS Algorithms and Data Structures Course. Started Wes Bos's 30 Days of Vanilla JavaScript Challenge. Did the first exercise today.
+
+**Thoughts:** I continued with the fcc course and started the first exercise of drums in the wes bos's 30 days of vanilla javascript challenge. JS is very fun.
+
+**Link to work:** **No specific link. Did the work in a forked repo**
 
