@@ -48,3 +48,10 @@
 
 **Link to work:** **No specific link. Did the work in a forked repo**
 
+### Day 7: May 30, 2023
+
+**Today's Progress**: Did some part of the fCC JavaScript course.Also solved the Day 2 exercise of Wes Bos's JavaScript 30. 
+
+**Thoughts:** I continued with both the fCC course and JavaScript30 by Wes Bos. The exercise was an analog clock app.
+
+**Link to work:** [Analog Clock App](https://analogclockkrishnasasathi.netlify.app/)
