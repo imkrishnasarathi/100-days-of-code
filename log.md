@@ -55,3 +55,11 @@
 **Thoughts:** I continued with both the fCC course and JavaScript30 by Wes Bos. The exercise was an analog clock app.
 
 **Link to work:** [Analog Clock App](https://analogclockkrishnasasathi.netlify.app/)
+
+### Day 8: May 31, 2023
+
+**Today's Progress**: Solved Day 3 of Wes Bos's JavaScript30 and continued with the fCC JS Algorithms course.
+
+**Thoughts:** I continued with both the fCC course and JavaScript30 by Wes Bos. Coded for only 1 hour due to eye infection. The JavaScript30 exercise was a very simple picture app. The main goal of this was using CSS variables and changing them using JS.
+
+**Link to work:** [Code to Work](https://github.com/imkrishnasarathi/JavaScript30/blob/master/03%20-%20CSS%20Variables/index-START.html)
