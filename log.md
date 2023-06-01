@@ -66,4 +66,7 @@
 
 ### Day 9: June 1, 2023
 
+**Today's Progress**: Solved Day 4 of Wes Bos's JavaScript30 and continued with the fCC JS Algorithms course.
+
+
 
