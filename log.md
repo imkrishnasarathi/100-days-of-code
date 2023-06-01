@@ -70,5 +70,5 @@
 
 **Thoughts:** I continued with both the fCC course and JavaScript30 by Wes Bos. The JavaScript30 exercise was some practice on arrays and array methods.
 
-
+**Link to work:** **No specific link**
 
