@@ -68,5 +68,7 @@
 
 **Today's Progress**: Solved Day 4 of Wes Bos's JavaScript30 and continued with the fCC JS Algorithms course.
 
+**Thoughts:** I continued with both the fCC course and JavaScript30 by Wes Bos. The JavaScript30 exercise was some practice on arrays and array methods.
+
 
 
