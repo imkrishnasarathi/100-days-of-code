@@ -63,3 +63,7 @@
 **Thoughts:** I continued with both the fCC course and JavaScript30 by Wes Bos. Coded for only 1 hour due to eye infection. The JavaScript30 exercise was a very simple picture app. The main goal of this was using CSS variables and changing them using JS.
 
 **Link to work:** [Code to Work](https://github.com/imkrishnasarathi/JavaScript30/blob/master/03%20-%20CSS%20Variables/index-START.html)
+
+### Day 9: June 1, 2023
+
+
