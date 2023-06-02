@@ -72,3 +72,11 @@
 
 **Link to work:** **No specific link**
 
+### Day 10: June 2, 2023
+
+**Today's Progress**: Completed Day 5 of Wes Bos's JavaScript30. Practiced some problems on CodeWars.
+
+**Thoughts:** I continued with the JavaScript30 challenge by Wes Bos. The JavaScript30 exercise was image gallery using css flexbox and transitions. Solved some problems in CodeWars. 
+
+**Link to work:** **No specific link**
+
