@@ -80,3 +80,10 @@
 
 **Link to work:** **No specific link**
 
+### Day 11: June 3, 2023
+
+**Today's Progress**: Completed Day 7 of Wes Bos's JavaScript30. Solved some problems on CodeWars.
+
+**Thoughts:** I continued with the JavaScript30 challenge by Wes Bos. The JavaScript30 exercise was on more array methods. Skipped Day 6 since it is not of my level yet.
+
+**Link to work:** **No specific link**
