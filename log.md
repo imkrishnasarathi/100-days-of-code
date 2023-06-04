@@ -87,3 +87,11 @@
 **Thoughts:** I continued with the JavaScript30 challenge by Wes Bos. The JavaScript30 exercise was on more array methods. Skipped Day 6 since it is not of my level yet.
 
 **Link to work:** **No specific link**
+
+### Day 12: June 4, 2023
+
+**Today's Progress**: Completed Day 8 of Wes Bos's JavaScript30. Did some part of fCC JS algorithms
+
+**Thoughts:** I continued with the JavaScript30 challenge by Wes Bos. The JavaScript30 exercise was a simple drawing app using canvas. JavaScript is fun!
+
+**Link to work:** **No specific link**
