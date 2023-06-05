@@ -95,3 +95,11 @@
 **Thoughts:** I continued with the JavaScript30 challenge by Wes Bos. The JavaScript30 exercise was a simple drawing app using canvas. JavaScript is fun!
 
 **Link to work:** **No specific link**
+
+### Day 13: June 5, 2023
+
+**Today's Progress**: Completed Day 9 of Wes Bos's JavaScript30. Did some part of fCC JS algorithms
+
+**Thoughts:** I continued with the JavaScript30 challenge by Wes Bos. The JavaScript30 exercise was some console commands which were discussed in the video tutorial of the exercise.
+
+**Link to work:** **No specific link**
