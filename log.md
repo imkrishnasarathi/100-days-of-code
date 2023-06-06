@@ -103,3 +103,11 @@
 **Thoughts:** I continued with the JavaScript30 challenge by Wes Bos. The JavaScript30 exercise was some console commands which were discussed in the video tutorial of the exercise.
 
 **Link to work:** **No specific link**
+
+### Day 14: June 6, 2023
+
+**Today's Progress**: Completed Day 10 of Wes Bos's JavaScript30. Solved some CodeWars katas.
+
+**Thoughts:** I continued with the JavaScript30 challenge by Wes Bos. The JavaScript30 exercise was an app with a checkbox selection functionality like gmail. 
+
+**Link to work:** **No specific link**
