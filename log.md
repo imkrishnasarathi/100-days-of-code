@@ -111,3 +111,11 @@
 **Thoughts:** I continued with the JavaScript30 challenge by Wes Bos. The JavaScript30 exercise was an app with a checkbox selection functionality like gmail. 
 
 **Link to work:** **No specific link**
+
+### Day 15: June 7, 2023
+
+**Today's Progress**: Completed Day 11 of Wes Bos's JavaScript30. Solved some CodeWars katas.
+
+**Thoughts:** I continued with the JavaScript30 challenge by Wes Bos. The JavaScript30 exercise was a custom video player app. 
+
+**Link to work:** [Video Player App](https://krishnascustomvideoplayer.netlify.app/)
