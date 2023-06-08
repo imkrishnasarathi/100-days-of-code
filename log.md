@@ -119,3 +119,11 @@
 **Thoughts:** I continued with the JavaScript30 challenge by Wes Bos. The JavaScript30 exercise was a custom video player app. 
 
 **Link to work:** [Video Player App](https://krishnascustomvideoplayer.netlify.app/)
+
+### Day 16: June 8, 2023
+
+**Today's Progress**: Solved CodeWars Katas as it was a busy day.
+
+**Thoughts:** I was very busy with study and AWS conference today. So I only had time to complete some tough and time taking CodeWars katas.
+
+**Link to work:** Nothing specific
