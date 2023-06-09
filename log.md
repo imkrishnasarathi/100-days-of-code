@@ -128,7 +128,7 @@
 
 **Link to work:** Nothing specific
 
-### Day 16: June 8, 2023
+### Day 17: June 9, 2023
 
 **Today's Progress**: Solved some CodeWars Katas and solved Wes Bos's JavaScript30 Day 12. 
 
