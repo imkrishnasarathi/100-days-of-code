@@ -110,7 +110,7 @@
 
 **Thoughts:** I continued with the JavaScript30 challenge by Wes Bos. The JavaScript30 exercise was an app with a checkbox selection functionality like gmail. 
 
-**Link to work:** **No specific link**
+**Link to work:** [Checkbox App (select a checkbox, press shift and select another at a distance, all checkboxes between get selected](https://github.com/imkrishnasarathi/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
 
 ### Day 15: June 7, 2023
 
@@ -127,3 +127,11 @@
 **Thoughts:** I was very busy with study and AWS conference today. So I only had time to complete some tough and time taking CodeWars katas.
 
 **Link to work:** Nothing specific
+
+### Day 16: June 8, 2023
+
+**Today's Progress**: Solved some CodeWars Katas and solved Wes Bos's JavaScript30 Day 12. 
+
+**Thoughts:** The JavaScript30 exercise was a KONAMI CODE detector app. Whenever you enter 'krishna', it shows some images on the screen each time.
+
+**Link to work:** [KONAMI CODE detector app](https://github.com/imkrishnasarathi/JavaScript30/tree/master/12%20-%20Key%20Sequence%20Detection)
