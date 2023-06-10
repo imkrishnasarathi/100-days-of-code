@@ -135,3 +135,12 @@
 **Thoughts:** The JavaScript30 exercise was a KONAMI CODE detector app. Whenever you enter 'krishna', it shows some images on the screen each time.
 
 **Link to work:** [KONAMI CODE detector app](https://github.com/imkrishnasarathi/JavaScript30/tree/master/12%20-%20Key%20Sequence%20Detection)
+
+### Day 18: June 10, 2023
+
+**Today's Progress**: Solved some CodeWars Katas and continued with fCC JS Algorithms course.
+
+**Thoughts:** Today I did not get time to continue JavaScript30. Will continue from tomorrow!
+
+**Link to work:** Nothing really specific
+
