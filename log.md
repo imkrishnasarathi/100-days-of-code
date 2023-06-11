@@ -140,7 +140,15 @@
 
 **Today's Progress**: Solved some CodeWars Katas and continued with fCC JS Algorithms course.
 
-**Thoughts:** Today I did not get time to continue JavaScript30. Will continue from tomorrow!
+**Thoughts:** Today I did not get time to continue JavaScript30. Was busy with school homework.
+
+**Link to work:** Nothing really specific
+
+### Day 19: June 11, 2023
+
+**Today's Progress**: Solved some CodeWars Katas and continued fCC JS Algorithms course.
+
+**Thoughts:** Today also, I did not get time to continue JavaScript30. Will continue from tomorrow! Today was also a busy day.
 
 **Link to work:** Nothing really specific
 
