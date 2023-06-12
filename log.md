@@ -152,3 +152,11 @@
 
 **Link to work:** Nothing really specific
 
+### Day 20: June 12, 2023
+
+**Today's Progress**: Continued fCC JS Algorithms Course and Solved Day 12 of JavaScript30.
+
+**Thoughts:** Classes started from today. Thank God they are online for the next two days so I got good time today. 
+
+**Link to work:** [My Code](https://github.com/imkrishnasarathi/JavaScript30/blob/master/13%20-%20Slide%20in%20on%20Scroll/index-START.html)
+
