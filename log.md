@@ -154,9 +154,17 @@
 
 ### Day 20: June 12, 2023
 
-**Today's Progress**: Continued fCC JS Algorithms Course and Solved Day 12 of JavaScript30.
+**Today's Progress**: Continued fCC JS Algorithms Course and Solved Day 13 of JavaScript30.
 
 **Thoughts:** Classes started from today. Thank God they are online for the next two days so I got good time today. 
 
 **Link to work:** [My Code](https://github.com/imkrishnasarathi/JavaScript30/blob/master/13%20-%20Slide%20in%20on%20Scroll/index-START.html)
+
+### Day 21: June 13, 2023
+
+**Today's Progress**: Continued fCC JS Algorithms Course and Solved Day 14 of JavaScript30.
+
+**Thoughts:** I didn't notice I made so much contributions since I started this challenge. There are lots of green squares now.
+
+**Link to work:** [My Code](https://github.com/imkrishnasarathi/JavaScript30/blob/master/14%20-%20JavaScript%20References%20VS%20Copying/index-START.html)
 
