@@ -168,7 +168,7 @@
 
 **Link to work:** [My Code](https://github.com/imkrishnasarathi/JavaScript30/blob/master/14%20-%20JavaScript%20References%20VS%20Copying/index-START.html)
 
-### Day 21: June 14, 2023
+### Day 22: June 14, 2023
 
 **Today's Progress**: Continued fCC JS Algorithms Course and Solved a bunch of CodeWars katas.
 
