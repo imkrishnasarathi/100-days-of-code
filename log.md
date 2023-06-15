@@ -176,3 +176,11 @@
 
 **Link to work:** Nothing specific
 
+### Day 23: June 15, 2023
+
+**Today's Progress**: Continued fCC JS Algorithms Course and solved some CodeChef problems.
+
+**Thoughts:** Today I was exhausted and it was a busy day, so got very less time to code.
+
+**Link to work:** Nothing specific
+
