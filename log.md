@@ -184,3 +184,10 @@
 
 **Link to work:** Nothing specific
 
+### Day 24: June 16, 2023
+
+**Today's Progress**: Continued fCC JS Algorithms Course and solved some CodeWars katas.
+
+**Thoughts:** Starting JavaScript30 again tomorrow.
+
+**Link to work:** Nothing specific
