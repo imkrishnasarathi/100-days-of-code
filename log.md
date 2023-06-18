@@ -188,6 +188,14 @@
 
 **Today's Progress**: Continued fCC JS Algorithms Course and solved some CodeWars katas.
 
+**Thoughts:** We already came this far!
+
+**Link to work:** Nothing specific
+
+### Day 25: June 17, 2023
+
+**Today's Progress**: Continued fCC JS Algorithms Course and solved some CodeChef problems.
+
 **Thoughts:** Starting JavaScript30 again tomorrow.
 
 **Link to work:** Nothing specific
