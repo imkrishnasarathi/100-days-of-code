@@ -196,6 +196,39 @@
 
 **Today's Progress**: Continued fCC JS Algorithms Course and solved some CodeChef problems.
 
+**Thoughts:** It was a very busy day!
+
+**Link to work:** Nothing specific
+
+### Day 25: June 17, 2023
+
+**Today's Progress**: Continued fCC JS Algorithms Course and solved some CodeChef problems and CodeWars Katas.
+
 **Thoughts:** Starting JavaScript30 again tomorrow.
 
 **Link to work:** Nothing specific
+
+### Day 26: June 18, 2023
+
+**Today's Progress**: Learnt about local storage and event delegation. Solved JS30 exercise 15.
+
+**Thoughts:** Learnt a lot!
+
+**Link to work:** [Link to file](https://github.com/imkrishnasarathi/JavaScript30/blob/master/15%20-%20LocalStorage/index-START.html)
+
+### Day 27: June 19, 2023
+
+**Today's Progress**: Started my Odin Project profile. Learnt more about and tips on problem solving. Started to write better Git commit messages.
+
+**Thoughts:** I don't think I will get rid of this busy-ness until my exams get over.
+
+**Link to work:** No specific Link
+
+### Day 28: June 20, 2023
+
+**Today's Progress**: Learnt some ES6 abbreviations. Solved Day 16 of Wes Bos's JS30
+
+**Thoughts:** It's fun to explore JavaScript! 
+
+**Link to work:** [Link to file](https://github.com/imkrishnasarathi/JavaScript30/blob/master/16%20-%20Mouse%20Move%20Shadow/index-START.html)
+
