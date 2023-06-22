@@ -232,3 +232,19 @@
 
 **Link to work:** [Link to file](https://github.com/imkrishnasarathi/JavaScript30/blob/master/16%20-%20Mouse%20Move%20Shadow/index-START.html)
 
+### Day 29: June 21, 2023
+
+**Today's Progress**: Did some part of fcc JS Algorithms and Data Structures. Read a few articles on objects and several intermediate to advanced object methods. Solved 2 CodeWars katas.
+
+**Thoughts:** I had planned to solve more katas but I didn't get time
+
+**Link to work:** No specific Link
+
+### Day 30: June 22, 2023
+
+**Today's Progress**: Dived deep into css complex selectors. Solved few CodeWars katas. Watched some of Kevin Powell's content rich videos on Pseudo selectors, Pseudo elements.
+
+**Thoughts:** Got a very basic part of CSS today.
+
+**Link to work:** No specific Link
+
