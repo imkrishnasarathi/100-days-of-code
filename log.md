@@ -244,7 +244,15 @@
 
 **Today's Progress**: Dived deep into css complex selectors. Solved few CodeWars katas. Watched some of Kevin Powell's content rich videos on Pseudo selectors, Pseudo elements.
 
-**Thoughts:** Got a very basic part of CSS today.
+**Thoughts:** Got a very basic yet important building block of CSS today.
 
 **Link to work:** No specific Link
+
+### Day 31: June 23, 2023
+
+**Today's Progress**: Continued with TheOdinProject. Solved Day 17 of Wes Bos's JS30.
+
+**Thoughts:** Today I did not get much time. Exams starting from Monday.
+
+**Link to work:** [JS30 Day 17](https://github.com/imkrishnasarathi/JavaScript30/blob/master/17%20-%20Sort%20Without%20Articles/index-START.html)
 
