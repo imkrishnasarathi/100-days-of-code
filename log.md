@@ -256,3 +256,11 @@
 
 **Link to work:** [JS30 Day 17](https://github.com/imkrishnasarathi/JavaScript30/blob/master/17%20-%20Sort%20Without%20Articles/index-START.html)
 
+### Day 32: June 24, 2023
+
+**Today's Progress**: Continued with TheOdinProject. Continued with CodeWithHarry's JavaScript Playlist. Solved Wes Bos's JS30 Day 15's addtional homework that I had forgot about.
+
+**Thoughts:** A productive day indeed.
+
+**Link to work:** [JS30 Day 15](https://github.com/imkrishnasarathi/JavaScript30/blob/master/15%20-%20LocalStorage/index-START.html)
+
