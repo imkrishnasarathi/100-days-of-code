@@ -264,3 +264,19 @@
 
 **Link to work:** [JS30 Day 15](https://github.com/imkrishnasarathi/JavaScript30/blob/master/15%20-%20LocalStorage/index-START.html)
 
+### Day 33: June 25, 2023
+
+**Today's Progress**: Continued with TheOdinProject. Continued with CodeWithHarry's JavaScript Playlist and made a lot of progress. Solved some problems on CodeChef. Started following freeCodeCamp's course on Figma.
+
+**Thoughts:** Exams Starting from tomorrow
+
+**Link to work:** [CodeWithHarry JavaScript Course Code Written by Me](https://github.com/imkrishnasarathi/UltimateJS_CWH_main)
+
+### Day 34: June 26, 2023
+
+**Today's Progress**: Continued with CodeWithHarry's JavaScript Playlist. Solved a practice set and an exercise from there. Continued with the freeCodeCamp's course on Figma.
+
+**Thoughts:** Firt exam over. Mathematics
+
+**Link to work:** [CodeWithHarry JavaScript Course Code Written by Me](https://github.com/imkrishnasarathi/UltimateJS_CWH_main)
+
