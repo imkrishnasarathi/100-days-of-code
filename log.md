@@ -276,7 +276,7 @@
 
 **Today's Progress**: Continued with CodeWithHarry's JavaScript Playlist. Solved a practice set and an exercise from there. Continued with the freeCodeCamp's course on Figma.
 
-**Thoughts:** Firt exam over. Mathematics
+**Thoughts:** First exam over. Mathematics
 
 **Link to work:** [CodeWithHarry JavaScript Course Code Written by Me](https://github.com/imkrishnasarathi/UltimateJS_CWH_main)
 
