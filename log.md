@@ -280,3 +280,10 @@
 
 **Link to work:** [CodeWithHarry JavaScript Course Code Written by Me](https://github.com/imkrishnasarathi/UltimateJS_CWH_main)
 
+### Day 35: June 27, 2023
+
+**Today's Progress**: Continued with CodeWithHarry's JavaScript Playlist. Solved an exercise from there. Read few articles on few JS concepts.
+**Thoughts:** Second exam over. Tomorrow another exam so did not get much time today.
+
+**Link to work:** Nothing specific.
+
