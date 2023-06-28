@@ -283,7 +283,13 @@
 ### Day 35: June 27, 2023
 
 **Today's Progress**: Continued with CodeWithHarry's JavaScript Playlist. Solved an exercise from there. Read few articles on few JS concepts.
+
 **Thoughts:** Second exam over. Tomorrow another exam so did not get much time today.
 
-**Link to work:** Nothing specific.
+**Link to work:** [The exercise code](https://github.com/imkrishnasarathi/UltimateJS_CWH_main/tree/main/ex2SnakeWaterGun)
 
+### Day 36: June 28, 2023
+
+**Today's Progress**: Completed yesterday's exercise of codewithharry's JS playlist. COntinued with the Figma course.
+
+**Link to work:** [The complete exercise of CodeWithHarry's JS Playlist](https://github.com/imkrishnasarathi/UltimateJS_CWH_main/tree/main/ex2SnakeWaterGun)
