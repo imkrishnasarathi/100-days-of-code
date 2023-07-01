@@ -292,4 +292,32 @@
 
 **Today's Progress**: Completed yesterday's exercise of codewithharry's JS playlist. COntinued with the Figma course.
 
+**Thoughts:** From today I don't have my pc with me.
+
 **Link to work:** [The complete exercise of CodeWithHarry's JS Playlist](https://github.com/imkrishnasarathi/UltimateJS_CWH_main/tree/main/ex2SnakeWaterGun)
+
+### Day 37: June 29, 2023
+
+**Today's Progress**: Continued with the figma course. Solved few codewars katas.
+
+**Thoughts:** Life without a pc is very boring. I am programming on my tablet.
+
+**Link to work:** Nothing specific
+
+### Day 38: June 30, 2023
+
+**Today's Progress**: Continued with codewithharry's JS Playlist. 
+
+**Thoughts:** Could not code much due to studies
+
+**Link to work:** [My repo of CodeWithHarry's JS Playlist](https://github.com/imkrishnasarathi/UltimateJS_CWH_main/)
+
+### Day 39: July 1, 2023
+
+**Today's Progress**: Continued with codewithharry's JS Playlist. 
+
+**Thoughts:** Coded for only some time due to exams
+
+**Link to work:** [My repo of CodeWithHarry's JS Playlist](https://github.com/imkrishnasarathi/UltimateJS_CWH_main/)
+ 
+
