@@ -320,4 +320,10 @@
 
 **Link to work:** [My repo of CodeWithHarry's JS Playlist](https://github.com/imkrishnasarathi/UltimateJS_CWH_main/)
  
+### Day 40: July 2, 2023
 
+**Today's Progress**: Continued with JavaScript30. Did a reduce exercise
+
+**Thoughts:** Coded for only some time due to exams
+
+**Link to work:** [My repo of JavaScript30](https://github.com/imkrishnasarathi/JavaScript30)
