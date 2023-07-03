@@ -327,3 +327,12 @@
 **Thoughts:** Coded for only some time due to exams
 
 **Link to work:** [My repo of JavaScript30](https://github.com/imkrishnasarathi/JavaScript30)
+
+### Day 41: July 3, 2023
+
+**Today's Progress**: Did not get much time so started with a project.
+
+**Thoughts:** The project is a to do app. Just coded the very basic html, and a bit of css.
+
+**Link to work:** [To Do App](https://github.com/imkrishnasarathi/To-Do-App)
+
