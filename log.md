@@ -336,3 +336,34 @@
 
 **Link to work:** [To Do App](https://github.com/imkrishnasarathi/To-Do-App)
 
+### Day 42: July 4, 2023
+
+**Today's Progress**: Was Busy with exams so solved some CodeWars katas.
+
+**Thoughts:** Last exam tomorrow!
+
+**Link to work:** **Nothing specific**
+
+### Day 43: July 5, 2023
+
+**Today's Progress**: Exams finished. Continued with some part of the To - Do App.
+
+**Thoughts:** I will fix all designing bugs (if there) when I get my pc!
+
+**Link to work:** [To Do App](https://github.com/imkrishnasarathi/To-Do-App)
+
+### Day 44: July 6, 2023
+
+**Today's Progress**: Continued with my To-Do app, mainly styling and html structuring.
+
+**Thoughts:** Designing from tablet is very hard!
+
+**Link to work:** [To Do App](https://github.com/imkrishnasarathi/To-Do-App)
+
+### Day 45: July 7, 2023
+
+**Today's Progress**: Fixed some styling bugs, mainly of the header, and added a card to view the todos.
+
+**Thoughts:** Got my PC back today!
+
+**Link to work:** [To Do App](https://github.com/imkrishnasarathi/To-Do-App)
