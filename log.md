@@ -367,3 +367,11 @@
 **Thoughts:** Got my PC back today!
 
 **Link to work:** [To Do App](https://github.com/imkrishnasarathi/To-Do-App)
+
+### Day 46: July 8, 2023
+
+**Today's Progress**: Completed Styling of The To Do App. Added a lot of styling and features.
+
+**Thoughts:** CSS is fun. Yes I just wrote it!
+
+**Link to work:** [To Do App](https://github.com/imkrishnasarathi/To-Do-App)
