@@ -382,4 +382,4 @@
 
 **Thoughts:** Completed this project!
 
-**Link to work:** [To Do App Code](https://github.com/imkrishnasarathi/To-Do-App) [Live and Hosted Link](https://imkrishnasarathi.github.io/To-Do-App/)
+**Link to work:** [To Do App Code](https://github.com/imkrishnasarathi/To-Do-App) and [Live and Hosted Link](https://imkrishnasarathi.github.io/To-Do-App/)
