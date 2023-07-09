@@ -375,3 +375,11 @@
 **Thoughts:** CSS is fun. Yes I just wrote it!
 
 **Link to work:** [To Do App](https://github.com/imkrishnasarathi/To-Do-App)
+
+### Day 47: July 9, 2023
+
+**Today's Progress**: Completed Programming the To Do App. Edited the styles a bit, added the option to add new tasks, and coded the JS part. 
+
+**Thoughts:** Completed this project!
+
+**Link to work:** [To Do App Code](https://github.com/imkrishnasarathi/To-Do-App) [Live and Hosted Link](https://imkrishnasarathi.github.io/To-Do-App/)
