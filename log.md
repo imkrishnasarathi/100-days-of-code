@@ -383,3 +383,12 @@
 **Thoughts:** Completed this project!
 
 **Link to work:** [To Do App Code](https://github.com/imkrishnasarathi/To-Do-App) and [Live and Hosted Link](https://imkrishnasarathi.github.io/To-Do-App/)
+
+### Day 48: July 10, 2023
+
+**Today's Progress**: Continued with codewithharry's JS playlist. Solved fe Codewars katas.
+
+**Thoughts:** Started to learn again after a project!
+
+**Link to work:** ...
+
