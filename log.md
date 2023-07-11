@@ -386,9 +386,17 @@
 
 ### Day 48: July 10, 2023
 
-**Today's Progress**: Continued with codewithharry's JS playlist. Solved fe Codewars katas.
+**Today's Progress**: Continued with codewithharry's JS playlist. Solved few Codewars katas.
 
 **Thoughts:** Started to learn again after a project!
+
+**Link to work:** ...
+
+### Day 48: July 11, 2023
+
+**Today's Progress**: Continued with codewithharry's JS playlist. Solved few Codechef problems.
+
+**Thoughts:** Yes, I use CodeWars and CodeChef interchangeably each day.
 
 **Link to work:** ...
 
