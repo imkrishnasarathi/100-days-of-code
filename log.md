@@ -400,3 +400,19 @@
 
 **Link to work:** ...
 
+### Day 48: July 13, 2023
+
+**Today's Progress**: Continued with codewithharry's JS playlist. Solved few codewars problems.
+
+**Thoughts:** JavaScript is pretty fun, I don't understand why developers are scared of it.
+
+**Link to work:** [My repo of CodeWithHarry's JS Playlist](https://github.com/imkrishnasarathi/UltimateJS_CWH_main/)
+
+### Day 49: July 14, 2023
+
+**Today's Progress**: Continued with codewithharry's JS playlist. Solved few codewars katss.
+
+**Thoughts:** I have already done the things taught in this playlist, just a revision and then moving to advanced parts of the playlist.
+
+**Link to work:** [My repo of CodeWithHarry's JS Playlist](https://github.com/imkrishnasarathi/UltimateJS_CWH_main/)
+
