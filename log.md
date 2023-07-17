@@ -416,3 +416,26 @@
 
 **Link to work:** [My repo of CodeWithHarry's JS Playlist](https://github.com/imkrishnasarathi/UltimateJS_CWH_main/)
 
+### Day 49: July 14, 2023
+
+**Today's Progress**: Continued with codewithharry's JS playlist. Solved few codewars katas.
+
+**Thoughts:** I have already done the things taught in this playlist, just a revision and then moving to advanced parts of the playlist.
+
+**Link to work:** [My repo of CodeWithHarry's JS Playlist](https://github.com/imkrishnasarathi/UltimateJS_CWH_main/)
+
+### Day 50: July 15, 2023
+
+**Today's Progress**: Continued with CodeWithHarry's JavaScript playlist. Solved few CodeWars katas.
+
+**Thoughts:** ...
+
+**Link to work:** [My repo of CodeWithHarry's JS Playlist](https://github.com/imkrishnasarathi/UltimateJS_CWH_main/)
+
+### Day 51: July 16, 2023
+
+**Today's Progress**: Continued with freeCodeCamp JS Algorithms and Data Structures Course.
+
+**Thoughts:** It was a very busy day so ggot very less time to code.
+
+**Link to work:** ...
