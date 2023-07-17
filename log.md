@@ -436,6 +436,6 @@
 
 **Today's Progress**: Continued with freeCodeCamp JS Algorithms and Data Structures Course.
 
-**Thoughts:** It was a very busy day so ggot very less time to code.
+**Thoughts:** It was a very busy day so got very less time to code.
 
 **Link to work:** ...
