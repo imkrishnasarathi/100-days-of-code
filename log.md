@@ -390,7 +390,7 @@
 
 **Thoughts:** Started to learn again after a project!
 
-**Link to work:** ...
+**Link to work:** [My repo of CodeWithHarry's JS Playlist](https://github.com/imkrishnasarathi/UltimateJS_CWH_main/)
 
 ### Day 48: July 11, 2023
 
@@ -398,7 +398,7 @@
 
 **Thoughts:** Yes, I use CodeWars and CodeChef interchangeably each day.
 
-**Link to work:** ...
+**Link to work:** [My repo of CodeWithHarry's JS Playlist](https://github.com/imkrishnasarathi/UltimateJS_CWH_main/)
 
 ### Day 48: July 13, 2023
 
@@ -439,3 +439,20 @@
 **Thoughts:** It was a very busy day so got very less time to code.
 
 **Link to work:** ...
+
+### Day 51: July 16, 2023
+
+**Today's Progress**: Continued with freeCodeCamp JS Algorithms and Data Structures Course.
+
+**Thoughts:** It was a very busy day so got very less time to code.
+
+**Link to work:** ...
+
+### Day 52: July 17, 2023
+
+**Today's Progress**: Continued with TheOdinProject and CodeWithHarry's JS course.
+
+**Thoughts:** ...
+
+**Link to work:** [My repo of CodeWithHarry's JS Playlist](https://github.com/imkrishnasarathi/UltimateJS_CWH_main/)
+
