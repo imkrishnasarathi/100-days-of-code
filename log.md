@@ -456,3 +456,7 @@
 
 **Link to work:** [My repo of CodeWithHarry's JS Playlist](https://github.com/imkrishnasarathi/UltimateJS_CWH_main/)
 
+### Day 53: July 18, 2023
+
+
+
