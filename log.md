@@ -460,3 +460,6 @@
 
 **Today's Progress**: Continued with CodeWithHarry's JS course and fCC JS Algorithms course.
 
+**Thoughts:** ...
+
+
