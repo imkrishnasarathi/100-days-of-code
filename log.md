@@ -473,3 +473,6 @@
 **Link to work:** ...
 
 ### Day 55: July 20, 2023
+
+**Today's Progress**: Continued with fCC JS Algorithms course. Continued with my previously started responsive styling course on fcc.
+
