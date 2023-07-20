@@ -476,3 +476,5 @@
 
 **Today's Progress**: Continued with fCC JS Algorithms course. Continued with my previously started responsive styling course on fcc.
 
+**Thoughts:** Progressing...
+
