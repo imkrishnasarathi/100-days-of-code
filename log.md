@@ -498,7 +498,7 @@
 
 ### Day 58: July 23, 2023
 
-**Today's Progress**: Continued with fCC JS Algorithms course. Continueed with codewithharry's JS playlist. Solved few codewars katas.
+**Today's Progress**: Continued with fCC JS Algorithms course. Continued with codewithharry's JS playlist. Solved few codewars katas.
 
 **Thoughts:** Progressing...
 
