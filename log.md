@@ -479,3 +479,27 @@
 **Thoughts:** Progressing...
 
 **Link to work:** ...
+
+### Day 55: July 21, 2023
+
+**Today's Progress**: Continued with fCC JS Algorithms course. Continued with my previously started responsive styling course on fcc. Created a repository for JS problem solving practice.
+
+**Thoughts:** Progressing...
+
+**Link to work:** [Problem Solving Code of Today](https://github.com/imkrishnasarathi/JavaScript-Practice/blob/main/countVowels.js)
+
+### Day 56: July 22, 2023
+
+**Today's Progress**: Continued with fCC JS Algorithms course. Solved another problem for my repo on JS problem solving practice. Solved few CodeWars katas.
+
+**Thoughts:** Progressing...
+
+**Link to work:** [Problem Solving Code of Today](https://github.com/imkrishnasarathi/JavaScript-Practice/blob/main/countCharacters.js)
+
+### Day 57: July 23, 2023
+
+**Today's Progress**: Continued with fCC JS Algorithms course. Continueed with codewithharry's JS playlist. Solved few codewars katas.
+
+**Thoughts:** Progressing...
+
+**Link to work:** [Problem Solving Code of Today](https://github.com/imkrishnasarathi/JavaScript-Practice/blob/main/countCharacters.js)
