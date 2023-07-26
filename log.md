@@ -503,3 +503,19 @@
 **Thoughts:** Progressing...
 
 **Link to work:** [Problem Solving Code of Today](https://github.com/imkrishnasarathi/JavaScript-Practice/blob/main/countCharacters.js)
+
+### Day 59: July 24, 2023
+
+**Today's Progress**: Continued with codewithharry's JS playlist. Solved an exercise from there.
+
+**Thoughts:** Progressing...
+
+**Link to work:** [My repo of CodeWithHarry's JS Playlist](https://github.com/imkrishnasarathi/UltimateJS_CWH_main/)
+
+### Day 60: July 25, 2023
+
+**Today's Progress**: Focused mainly on my TheOdinProject profile today. Read few articles on certain topics. Wrote out a dummy web page to see certain things in action.
+
+**Thoughts:** Progressing...
+
+**Link to work:** ...
