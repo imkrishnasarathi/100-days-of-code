@@ -519,3 +519,59 @@
 **Thoughts:** Progressing...
 
 **Link to work:** ...
+
+### Day 61: July 26, 2023
+
+**Today's Progress**: Continued with fCC Js Algorithms Course (It was a very busy day).
+
+**Thoughts:** Progressing...
+
+**Link to work:** ...
+
+### Day 62: July 27, 2023
+
+**Today's Progress**: Focused mainly on my TheOdinProject profile today. Read few articles on certain topics. Wrote out a dummy web page to see certain things in action.
+
+**Thoughts:** Progressing...
+
+**Link to work:** ...
+
+### Day 63: July 28, 2023
+
+**Today's Progress**: Started with a new chrome extension project for a competition, also for this challenge. Name - WebContentAlerts/WebContentAwareness
+
+**Thoughts:** Progressing...
+
+**Link to work:** [Website Displaying This Project (Hosted on GH Pages)](https://github.com/imkrishnasarathi/WebContentAlerts-InfoWebsite) and [The Extension Project](https://github.com/imkrishnasarathi/WebContentAlerts-Extension)
+
+### Day 64: July 29, 2023
+
+**Today's Progress**: Continued with coding the extension project.
+
+**Thoughts:** Progressing...
+
+**Link to work:** [Website Displaying This Project (Hosted on GH Pages)](https://github.com/imkrishnasarathi/WebContentAlerts-InfoWebsite) and [The Extension Project](https://github.com/imkrishnasarathi/WebContentAlerts-Extension)
+
+### Day 65: July 30, 2023
+
+**Today's Progress**: Continued with coding the extension project.
+
+**Thoughts:** Progressing...
+
+**Link to work:** [Website Displaying This Project (Hosted on GH Pages)](https://github.com/imkrishnasarathi/WebContentAlerts-InfoWebsite) and [The Extension Project](https://github.com/imkrishnasarathi/WebContentAlerts-Extension)
+
+### Day 66: July 31, 2023
+
+**Today's Progress**: Completed coding the extension project. Also completed the info Website. Installation instructions in that page. 
+
+**Thoughts:** Progressing...
+
+**Link to work:** [Website Displaying This Project (Hosted on GH Pages)](https://github.com/imkrishnasarathi/WebContentAlerts-InfoWebsite) and [The Extension Project](https://github.com/imkrishnasarathi/WebContentAlerts-Extension)
+
+### Day 67: August 1, 2023
+
+**Today's Progress**: Continued with TheOdinProject.
+
+**Thoughts:** Progressing...
+
+**Link to work:** ...
