@@ -575,3 +575,19 @@
 **Thoughts:** Progressing...
 
 **Link to work:** ...
+
+### Day 68: August 2, 2023
+
+**Today's Progress**: Solved few CodeWars katas. Continued with TOP Curriculum.
+
+**Thoughts:** Progressing...
+
+**Link to work:** ...
+
+### Day 69: August 3, 2023
+
+**Today's Progress**: Continued with fCC JS Algorithms course, it was a pretty busy day.
+
+**Thoughts:** Progressing...
+
+**Link to work:** ...
