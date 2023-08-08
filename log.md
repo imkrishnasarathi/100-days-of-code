@@ -600,3 +600,26 @@
 
 **Link to work:** ...
 
+### Day 71: August 5, 2023
+
+**Today's Progress**: Continued with fCC Responsive designing course.
+
+**Thoughts:** It was a very busy day, so coded for very less time
+
+**Link to work:** ...
+
+### Day 72: August 6, 2023
+
+**Today's Progress**: Solved some problems on CodeChef.
+
+**Thoughts:** This week we have to make projects in school, so yeah it is going to be a busy one.
+
+**Link to work:** ...
+
+### Day 73: August 7, 2023
+
+**Today's Progress**: Continued with CodeWithHarry's Ultimate JavaScript Playlist.
+
+**Thoughts:** ...
+
+**Link to work:** [My repo of CodeWithHarry's JS Playlist](https://github.com/imkrishnasarathi/UltimateJS_CWH_main/)
