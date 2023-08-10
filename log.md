@@ -623,3 +623,19 @@
 **Thoughts:** ...
 
 **Link to work:** [My repo of CodeWithHarry's JS Playlist](https://github.com/imkrishnasarathi/UltimateJS_CWH_main/)
+
+### Day 74: August 8, 2023
+
+**Today's Progress**: Continued with TheOdinProject. Read a few articles and resources from there.
+
+**Thoughts:** ...
+
+**Link to work:** ...
+
+### Day 75: August 9, 2023
+
+**Today's Progress**: Continued with fCC JS Algorithms Course. Solved few katas on CodeWars.
+
+**Thoughts:** ...
+
+**Link to work:** ...
